@@ -128,7 +128,9 @@ input {
   margin: 5px 0;
 }
 
-iframe {
+.video-container {
+  display: flex;
+  justify-content: center;
   margin-top: 15px;
 }
 
